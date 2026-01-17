@@ -12705,11 +12705,16 @@
       "action": "Dados sincronizados com servidor (0 candidatos)",
       "timestamp": "2026-01-17T20:08:11.359Z",
       "user": "Administrador"
+    },
+    {
+      "action": "Dados sincronizados com servidor (0 candidatos)",
+      "timestamp": "2026-01-17T20:22:39.942Z",
+      "user": "Sistema"
     }
   ],
   "config": {
     "isPublished": false
   },
   "published": false,
-  "lastSync": "2026-01-17T20:08:11.364Z"
+  "lastSync": "2026-01-17T20:22:39.997Z"
 }
